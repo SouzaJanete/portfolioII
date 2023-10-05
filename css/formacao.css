@@ -129,4 +129,8 @@
   .formacao-extra h3::before {
     position: initial;
   }
+  
+}
+.link {
+  color: #f40404;
 }
